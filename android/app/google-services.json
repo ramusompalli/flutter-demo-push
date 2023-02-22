@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "709429780676",
+    "project_id": "flutter-notification-dem-82ddf",
+    "storage_bucket": "flutter-notification-dem-82ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709429780676:android:163f2fb3b34576b3926991",
+        "android_client_info": {
+          "package_name": "com.example.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709429780676-e19t7dr7uf1haegr6hmb9acinvef74e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKZtigMYvURVFF6zonUxJevfFihXrfnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709429780676-e19t7dr7uf1haegr6hmb9acinvef74e6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709429780676-1n8nlo50ch7vvc56j1pr4sma5o9fu69v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.push"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
